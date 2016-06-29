@@ -10,6 +10,6 @@ The Script Can be modified to download full season, or any particular episode of
 Run the script using this command :
   python download.py
   
-  and then enter the name or the number from the given list of the series.
+  and then enter the name of the series or the number from the given list of the series.
   
   and Enjoy !!!
